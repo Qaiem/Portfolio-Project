@@ -1,9 +1,9 @@
 'use client'
 
 import { cn } from "@/utils/cn";
-import { div, style } from "framer-motion/client";
+// import { div, style } from "framer-motion/client";
 import { BackgroundGradientAnimation } from "./GradientBg";
-import { group } from "console";
+// import { group } from "console";
 import { GlobeDemo } from "./GridGlobe";
 import { useState } from "react";
 import animationData from '@/data/confetti.json'

@@ -1,6 +1,6 @@
 import React from 'react'
 import { Spotlight } from './ui/Spotlight'
-import { div } from 'framer-motion/client'
+// import { div } from 'framer-motion/client'
 import { TextGenerateEffect } from './ui/TextGenerateEffect'
 import MagicButton from './ui/MagicButton'
 import { FaLocationArrow } from 'react-icons/fa'
